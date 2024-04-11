@@ -14,7 +14,7 @@ NodeJS, HTML, CSS, React
 
 ### Technologies:
 
-Git/Github, Postman, AWS, Azure, PostgreSQL, WordPress
+Git/Github, Postman, AWS, Azure, PostgreSQL, Docker, WordPress
 
 ### Languages:
 
