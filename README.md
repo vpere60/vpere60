@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My Porgramming Languages:
+### My Programming Languages:
 
 Python, SQL, Golang, PHP
 
