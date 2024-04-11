@@ -14,7 +14,7 @@ NodeJS, HTML, CSS
 
 ### Technologies:
 
-Git/Github, Postman, AWS, Azure, PostgreSQL
+Git/Github, Postman, AWS, Azure, PostgreSQL, WordPress
 
 ### Languages:
 
