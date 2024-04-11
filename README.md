@@ -10,7 +10,7 @@ Pandas, NumPy, Scikit-Learn, Matplotlib
 
 ### Front-end:
 
-NodeJS, HTML, CSS
+NodeJS, HTML, CSS, React
 
 ### Technologies:
 
