@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+### My Porgramming Languages:
+
+Python, SQL, Golang, PHP
+
+### ML and Data Science:
+
+Pandas, NumPy, Scikit-Learn, Matplotlib
+
+### Front-end:
+
+NodeJS, HTML, CSS
+
+### Technologies:
+
+Git/Github, Postman, AWS, Azure, PostgreSQL
+
+### Languages:
+
+English
+
 <!--
 **vpere60/vpere60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
