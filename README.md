@@ -10,11 +10,11 @@ Pandas, NumPy, Scikit-Learn, Matplotlib
 
 ### Front-end:
 
-NodeJS, HTML, CSS, React
+NodeJS, HTML, CSS, React, Vue.js
 
 ### Technologies:
 
-Git/GitHub, Postman, AWS, Azure, PostgreSQL, Docker, WordPress
+Git/GitHub, Jira, Postman, AWS, Azure, PostgreSQL, Docker, WordPress
 
 ### Languages:
 
