@@ -4,9 +4,9 @@
 
 Python, SQL, Golang, PHP
 
-### ML and Data Science:
+### Data Engineering:
 
-Pandas, NumPy, Scikit-Learn, Matplotlib
+Pandas, NumPy, Scikit-Learn, Matplotlib, Airflow, dbt
 
 ### Front-end:
 
