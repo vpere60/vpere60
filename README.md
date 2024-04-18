@@ -6,7 +6,7 @@ Python, SQL, Golang, PHP
 
 ### Data Engineering:
 
-Pandas, NumPy, Scikit-Learn, Matplotlib, Airflow, dbt, Microsoft Power BI, Tableau
+Pandas, NumPy, Scikit-Learn, Matplotlib, Airflow, dbt, Power BI, Tableau
 
 ### Front-end:
 
@@ -14,7 +14,7 @@ JavaScript, jQuery, HTML, CSS, React, Vue.js
 
 ### Technologies:
 
-Git/GitHub, Jira, Postman, AWS, Azure, PostgreSQL, Docker, Node.js, Laravel, WordPress
+Git/GitHub, Jira, Postman, AWS, Azure, PostgreSQL, MySQL, Docker, Node.js, Laravel, WordPress
 
 ### Languages:
 
