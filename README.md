@@ -6,7 +6,7 @@ Python, SQL, Golang, PHP
 
 ### Data Engineering:
 
-Pandas, NumPy, Scikit-Learn, Matplotlib, Airflow, dbt, Power BI, Tableau
+Pandas, NumPy, Scikit-Learn, Snowflake, Airflow, dbt, Power BI, Tableau
 
 ### Front-end:
 
