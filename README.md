@@ -14,7 +14,7 @@ JavaScript, jQuery, HTML, CSS, React, Vue.js
 
 ### Technologies:
 
-Git/GitHub, Jira, Postman, AWS, Azure, PostgreSQL, MySQL, Docker, Node.js, Laravel, WordPress
+Git/GitHub, Jira, Postman, AWS, Azure, PostgreSQL, MySQL, Docker, Node.js, WordPress
 
 ### Languages:
 
