@@ -2,7 +2,7 @@
 
 ### My Programming Languages:
 
-Python, SQL, Golang, PHP
+Python, SQL, Golang, Scala
 
 ### Data Engineering:
 
